@@ -62,7 +62,7 @@ Projede ele alınan **temel sorunlar** şunlardır:
 
 ##  Deneysel Çalışma ve Test Senaryoları
 
-** Senaryo 1 – En Yüksek Stres Senaryosu**
+**Senaryo 1 – En Yüksek Stres Senaryosu**
 | Değişken | Değer |
 |----------|--------|
 | Atık Miktarı | Yüksek |
@@ -73,7 +73,7 @@ Projede ele alınan **temel sorunlar** şunlardır:
 ![image](https://github.com/user-attachments/assets/8215bbde-1661-4923-89bf-7300e40db4c9)
 
 
-** Senaryo 2 – Düşük Yoğunluk Senaryosu**
+**Senaryo 2 – Düşük Yoğunluk Senaryosu**
 | Değişken | Değer |
 |----------|--------|
 | Atık Miktarı | Düşük |
@@ -93,12 +93,17 @@ Proje kapsamında elde edilen sonuçlar MATLAB kullanılarak görselleştirilmi�
 
  **Örnek Çıktılar:**
 - **Atık Miktarı – Depolama Kapasitesi Grafiği**
+  
  ![image](https://github.com/user-attachments/assets/eef87be2-c98b-4811-91eb-121101217e57)
 
+
 - **Atık Miktarı – Geri Dönüşüm Maliyeti Grafiği**
+  
  ![image](https://github.com/user-attachments/assets/f72a3b45-87cd-4143-bb6c-3942b638091b)
 
+
 - **Depolama Kapasitesi – Geri Dönüşüm Maliyeti Grafiği**
+  
  ![image](https://github.com/user-attachments/assets/ad3cd577-f7f0-42f7-8373-2034da017d6f)
 
 
