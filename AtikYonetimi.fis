@@ -1,10 +1,10 @@
 [System]
-Name='AtikYonetimi'
+Name='AtikYonetimiFINISH'
 Type='mamdani'
 Version=2.0
 NumInputs=3
 NumOutputs=1
-NumRules=31
+NumRules=34
 AndMethod='min'
 OrMethod='max'
 ImpMethod='min'
@@ -23,17 +23,17 @@ MF3='Yuksek':'trapmf',[122.407407407407 257.592592592593 300 300]
 Name='DepolamaKapasitesi'
 Range=[0 700]
 NumMFs=3
-MF1='Dusuk':'trapmf',[0 0 100 250]
-MF2='Orta':'gaussmf',[100.922497873731 369.876543209877]
-MF3='Yuksek':'trapmf',[450 600 700 700]
+MF1='Dusuk':'gaussmf',[195.537775693687 66.5399239543726]
+MF2='Orta':'gaussmf',[176.323080972342 363.307984790874]
+MF3='Yuksek':'gaussmf',[127.72120608894 707.984790874525]
 
 [Input3]
 Name='GeriDonusumMaliyeti'
 Range=[0 100]
 NumMFs=3
-MF1='Dusuk':'trapmf',[-37.5 -4.167 4.167 37.5]
-MF2='Orta':'gaussmf',[17.69 50]
-MF3='Yuksek':'trapmf',[62.5 95.83 104.2 137.5]
+MF1='Dusuk':'trapmf',[-37.2237569060773 -3.89075690607735 25 48.1958762886598]
+MF2='Orta':'gaussmf',[47.9385242946073 53.6082474226804]
+MF3='Yuksek':'trapmf',[59.5303867403315 93.018018018018 104.476243093923 137.776243093923]
 
 [Output1]
 Name='ToplamaSikligi'
@@ -75,3 +75,6 @@ MF3='Sik':'trapmf',[6 8 10 10]
 3 1 0, 3 (1) : 1
 2 2 0, 2 (1) : 1
 3 0 1, 3 (1) : 1
+0 3 3, 1 (1) : 1
+0 2 3, 1 (1) : 1
+0 2 1, 2 (1) : 1
