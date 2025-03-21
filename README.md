@@ -35,7 +35,7 @@ Projede ele alınan **temel sorunlar** şunlardır:
    - **Trapezoidal, Gaussian ve Üçgen Üye Fonksiyonları** kullanıldı.
 
 2. **Kuralların Oluşturulması** 
-   - **35 farklı kural** tanımlandı.
+   - **34 farklı kural** tanımlandı.
    - Kurallar, **"Eğer... ise"** şeklinde modellenerek, **toplama sıklığını** belirlemek için kullanıldı.
 
 3. **Çıkarım Yöntemi (Inference Method)** 
@@ -93,13 +93,13 @@ Proje kapsamında elde edilen sonuçlar MATLAB kullanılarak görselleştirilmi�
 
  **Örnek Çıktılar:**
 - **Atık Miktarı – Depolama Kapasitesi Grafiği**
-- ![image](https://github.com/user-attachments/assets/eef87be2-c98b-4811-91eb-121101217e57)
+ ![image](https://github.com/user-attachments/assets/eef87be2-c98b-4811-91eb-121101217e57)
 
 - **Atık Miktarı – Geri Dönüşüm Maliyeti Grafiği**
-- ![image](https://github.com/user-attachments/assets/f72a3b45-87cd-4143-bb6c-3942b638091b)
+ ![image](https://github.com/user-attachments/assets/f72a3b45-87cd-4143-bb6c-3942b638091b)
 
 - **Depolama Kapasitesi – Geri Dönüşüm Maliyeti Grafiği**
-- ![image](https://github.com/user-attachments/assets/ad3cd577-f7f0-42f7-8373-2034da017d6f)
+ ![image](https://github.com/user-attachments/assets/ad3cd577-f7f0-42f7-8373-2034da017d6f)
 
 
 Bu grafikler, sistemin verdiği kararların doğruluğunu ve **bulanık mantık tabanlı karar mekanizmasının etkinliğini göstermektedir**.
